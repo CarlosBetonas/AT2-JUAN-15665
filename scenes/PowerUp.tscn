@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://d1g0xr4a5yg25"]
+
+[node name="PowerUp" type="Node2D" unique_id=538888948]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1771675410]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1223022850]
